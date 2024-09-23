@@ -14,5 +14,4 @@ Hacks de JavaScript de Social Oplesk realizados.
   npm run test hack_2/
   npm run test hack_3/
   npm run test hack_(por cada número de hack)/
-
-```diff
+```
